@@ -1,5 +1,7 @@
 # Shipping from China in 2026: The Complete Parcel Buyer’s Guide
 
+![Shipping from China in 2026: The Complete Parcel Buyer’s Guide — CFans Guides cover](images/china-shipping-guide-2026-cover.png)
+
 How to ship a Taobao, 1688, or Weidian haul home without guessing at cost, customs, or delivery time.
 
 > **TL;DR:**
@@ -48,6 +50,8 @@ Ocean transport has a low line-haul cost, but small shipments can attract minimu
 
 The number beside “per kilogram” is only one part of the bill. A useful budget separates freight from packaging, optional services, and import charges.
 
+![CFans Help Center article on logistics services and shipping lines — screenshot from cfans.com](images/cfans-help-shipping.png)
+
 > Landed cost = goods + China delivery + agent services + international freight + duty/tax + destination fees
 
 ### Six variables move the quote
@@ -68,6 +72,8 @@ Pre-purchase estimates help compare products, but the warehouse-packed dimension
 ## Why is volumetric weight charged?
 
 Aircraft and trucks run out of space as well as payload. Volumetric weight converts the space a parcel occupies into a billable weight so a large, light box is not priced like a compact parcel.
+
+![Infographic: why volumetric weight is charged on China parcels — formula and sneaker-box example](images/china-shipping-guide-2026-fig1.png)
 
 > Volumetric kg = length × width × height (cm) ÷ divisor
 
@@ -145,6 +151,8 @@ This section is general information, not tax or legal advice. For a high-value, 
 
 Choose **Delivered Duty Paid (DDP)** when you value a more predictable landed price. Choose a duty-unpaid route only when you understand the destination charges and are ready to respond to customs or the carrier.
 
+![Infographic: DDP vs DDU (DAP) shipping from China — who pays duty and who clears customs](images/china-shipping-guide-2026-fig2.png)
+
 | Question | DDP / tax-included line | Duty-unpaid line (often labeled DDU or DAP) |
 | --- | --- | --- |
 | Who arranges import clearance? | The shipping provider generally coordinates it within the service. | The carrier may broker entry, but the recipient remains responsible for required information and charges. |
@@ -213,6 +221,8 @@ If one sensitive item forces the entire haul onto an expensive line, compare shi
 
 Tracking is a series of custody scans, not a live map. Several quiet days can be normal when a parcel is queued for a flight, moving between countries, clearing customs, or waiting to enter the destination carrier’s network.
 
+![CFans Help Center — screenshot from cfans.com](images/cfans-helpcenter.png)
+
 - ****Parcel submitted****: You paid for international shipping and the warehouse is packing or awaiting carrier pickup. The international tracking number may not work yet.
 - ****Electronic data received****: A label or manifest exists, but the carrier may not physically have the parcel. Wait for an acceptance or pickup scan.
 - ****Departed facility / export clearance****: The parcel has left an origin hub or completed export processing. It may still wait for transport capacity.
@@ -234,6 +244,8 @@ Keep screenshots of the order, packed parcel, tracking history, and any carrier 
 ## What is the best way to reduce China shipping costs?
 
 The biggest savings usually come from changing the package and service choice—not from hunting for a tiny discount code.
+
+![Checklist infographic: 8 ways to reduce the cost of shipping from China](images/china-shipping-guide-2026-fig3.png)
 
 - [ ] **Consolidate seller orders.**
 Pay one first-weight charge instead of repeating it across several parcels.

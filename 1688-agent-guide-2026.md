@@ -1,5 +1,7 @@
 # 1688 Agent: How to Buy from 1688 as a Foreigner in 2026
 
+![1688 Agent: How to Buy from 1688 as a Foreigner in 2026 — CFans Guides cover](images/1688-agent-guide-2026-cover.png)
+
 **CFans sourcing guide**
 
 > **TL;DR:**
@@ -98,6 +100,8 @@ Goods go to the agent's warehouse. After quality-control (QC) photos and any iss
 
 The decisive question is not “Which site is cheaper?” It is “Which marketplace matches this order?” Taobao's retail model removes quantity friction. 1688's wholesale model can reduce unit cost when you buy enough and know exactly what you need.
 
+![Infographic: 1688 vs Taobao compared — price level, MOQ, seller type and best use cases](images/1688-agent-guide-2026-fig2.png)
+
 | Decision factor | 1688 | Taobao |
 | --- | --- | --- |
 | Typical price level | Wholesale; tiered by quantity | Retail; usually per item |
@@ -129,6 +133,8 @@ The decisive question is not “Which site is cheaper?” It is “Which marketp
 
 This walkthrough shows the decisions the buyer still owns and the execution an agent handles. Interface labels may change, so publish the steps only after checking the live CFans flow.
 
+![Infographic: how CFans turns a 1688 product link into an order — 5 steps](images/1688-agent-guide-2026-fig1.png)
+
 > **Do not pay from the headline listing price alone.**
 > A ¥3.20 display price may apply only to a high tier, a basic material, an unfinished component or a single color. The confirmed order summary is the price that matters.
 
@@ -154,6 +160,8 @@ Consolidation can reduce repeated base charges, but a larger box can increase vo
 ## How do you vet a 1688 seller before buying?
 
 A badge narrows the field; it does not replace product evidence. Build a supplier view from identity, operating history, transaction behavior, repeat purchasing, communication and sample performance.
+
+![Checklist infographic: 6 signals to vet a 1688 seller before buying](images/1688-agent-guide-2026-fig3.png)
 
 | Signal | What it can indicate | What it cannot prove |
 | --- | --- | --- |
@@ -270,6 +278,8 @@ An agent does not replace product compliance advice, laboratory testing, tradema
 ## Try CFans for 1688 sourcing
 
 When the right product is on 1688 but Chinese payment, seller communication, MOQ negotiation, inspection or international delivery blocks the purchase, use CFans to manage the order from product link to export parcel. Start with a sample, define what “acceptable” means, inspect before shipping and scale only after the numbers work.
+
+![CFans.com homepage — screenshot from cfans.com](images/cfans-homepage.png)
 
 > **CFans' role is simple:**
 > make China's domestic marketplaces usable for overseas buyers without hiding the decisions that determine quality and landed cost.

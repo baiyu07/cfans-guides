@@ -1,5 +1,7 @@
 # Which Taobao agent is best for US buyers in 2026?
 
+![Best Taobao Agent for US Buyers in 2026 — CFans Guides cover](images/best-taobao-agent-usa-2026-cover.png)
+
 > **TL;DR::**
 >
 > The best Taobao agent for USA buyers is the one with transparent landed cost, useful QC, dependable US shipping and clear duty handling. CFans is a strong value-focused option because it combines purchasing, warehouse QC and consolidation; compare its live DDP and non-DDP quotes against competitors before paying.
@@ -100,6 +102,8 @@ FX conversion spread and payment/top-up surcharges are not published on cfans.co
 
 A service-fee comparison is incomplete because an agent can recover margin through exchange rates, payment fees, freight or paid warehouse services. Compare the cost that reaches your US address.
 
+![Infographic: the CFans True Total Cost formula for US buyers](images/best-taobao-agent-usa-2026-fig2.png)
+
 > True Total Cost = item price + China delivery + buying fee + payment/FX cost + international freight + duty/tax/clearance + optional services - discounts
 
 ### How does a worked US example change the ranking?
@@ -135,6 +139,8 @@ In this illustration the zero-fee rival costs $18.26 more than CFans, even thoug
 >
 > A practical planning window is roughly one to three weeks after parcel dispatch for many air routes, while express courier can be faster and sea freight slower. The full order clock also includes seller dispatch, China warehouse receiving, QC and packing.
 
+![Infographic: shipping from China to the USA — cost benchmarks, transit times and key facts](images/best-taobao-agent-usa-2026-fig1.png)
+
 | Line type | Planning transit | Public cost benchmark | Best for |
 | --- | --- | --- | --- |
 | **Economy / postal air** | **Often 10-25 days** | **Live quote required** | **Flexible personal orders** |
@@ -166,6 +172,8 @@ The express, air-freight and sea benchmarks are indicative public forwarder rang
 Yes. USPS can serve residential addresses and PO Boxes, while a UPS or FedEx handoff generally needs a deliverable street address unless a specific service or USPS street-addressing arrangement applies. Apartment buyers should include the unit number and choose a secure delivery option. A forwarding address can work only if both the agent and the forwarder accept the parcel type and customs model.
 
 *Related guide: [China Shipping](./china-shipping-guide-2026.md)*
+
+![CFans Help Center article on logistics services and shipping lines — screenshot from cfans.com](images/cfans-help-shipping.png)
 
 ## Why can a light Taobao parcel still be expensive?
 
@@ -276,6 +284,8 @@ Use another agent when it has a materially better live route for your item categ
 7. **Declare accurately.** Use a truthful English description, quantity, value and origin. CBP warns that false descriptions or values can lead to seizure or penalties.
 8. **Track both legs.** Keep the international number and any USPS, UPS or FedEx handoff number. Respond quickly to legitimate carrier or customs requests.
 9. **Document delivery.** Photograph the outer carton before opening and record unpacking for damage or missing-item claims.
+
+![Infographic: 9 steps to buy from Taobao and ship to the USA](images/best-taobao-agent-usa-2026-fig3.png)
 
 ### What does the CFans workflow add?
 

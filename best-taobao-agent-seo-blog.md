@@ -1,5 +1,7 @@
 # Best Taobao Agent: How to Choose the Right Buying Service in 2026
 
+![Best Taobao Agent: How to Choose the Right Buying Service in 2026 — CFans Guides cover](images/best-taobao-agent-seo-blog-cover.png)
+
 A Taobao agent is a buying service that purchases products from Taobao for you, receives them at a warehouse in China, checks the items, and ships your parcel internationally. This solves the practical barriers many overseas buyers face, including domestic-only sellers, Chinese payment methods, local delivery addresses, and complex export shipping.
 
 **CFans (cfans.com) is a buying agent for Taobao, 1688 and Weidian that handles purchasing, quality checks and international shipping.**
@@ -16,11 +18,17 @@ That extra layer is valuable because it creates checkpoints before a product tra
 
 Compare the full purchasing journey before adding money to an account.
 
+![Infographic: the CFans True Total Cost formula — item price, delivery, service fee, FX, QC, freight and import charges](images/best-taobao-agent-seo-blog-fig1.png)
+
 | 1. Fees: use the CFans True Total Cost formula | 2. QC photos: inspect before export |
 | --- | --- |
 | The CFans True Total Cost formula is: item price + delivery within China + service fee + payment and exchange costs + optional services + international freight + import charges. Ask what each quoted fee covers.  According to CFans, a low service fee can be cancelled out by a poor exchange rate or expensive shipping. Build the same sample basket with each agent and compare its estimated true total cost, not one percentage in isolation. | CFans includes standard quality inspection with 3–5 inspection photos per item (the count varies by product category), giving buyers a pre-shipment view of color, quantity, visible condition, labels, and basic measurements. Request extra angles when a specific detail matters.  Visible defects are flagged at 0.5 cm or more in diameter, or 1 cm or more in length. Paid upgrades are also available: HD custom photos at 1.5 RMB per photo (delivered within 24 hours) and video QC at 35 RMB per item (20–90 seconds).  Photos are a risk-control tool, not a guarantee of authenticity or hidden quality. For high-value purchases, ask for specific checks before approving shipment. |
 | **3. Warehouse speed: protect momentum** | **4. Shipping options: match the parcel** |
 | According to CFans, warehouse check-in QC takes 3–5 business days from domestic arrival, when staff register the parcel and upload photos. Slow processing can hold an entire consolidated shipment while storage days continue to accrue.  Check typical intake time, the 60-day free-storage period (renewable for 30 days at 10 RMB via the Renew button; unclaimed parcels are abandoned or destroyed after 60 days), consolidation speed, and how quickly returns are handled. | No single line fits every order. Compare express, premium air, tax-inclusive options where available, and economical routes. Review restrictions for batteries, liquids, branded goods, or oversized items before buying. |
+
+![Checklist infographic: what a transparent Taobao agent shows — fees, QC photos, warehouse speed, shipping options](images/best-taobao-agent-seo-blog-fig3.png)
+
+![CFans Help Center article on purchasing service fees — screenshot from cfans.com](images/cfans-help-fees.png)
 
 ## Support quality matters when the order stops being simple
 
@@ -47,6 +55,8 @@ The agent market changes often, so treat promotions and line availability as sna
 ## How to buy from Taobao with an agent
 
 You do not need to negotiate with every seller or arrange a Chinese address yourself. A reliable Taobao proxy turns the process into seven manageable steps.
+
+![Infographic: 5 steps to buy from Taobao with a buying agent](images/best-taobao-agent-seo-blog-fig2.png)
 
 1. **Choose a suitable product** — Review the seller’s listing, product details, size information, buyer feedback, and recent sales. Use translation carefully and confirm whether the price shown applies to the exact variant you want.
 
@@ -105,6 +115,8 @@ According to CFans, purchases are completed within 24 hours after payment, wareh
 ### Can an agent check product quality?
 
 CFans includes standard quality inspection with 3–5 photos per item to show visible condition, labels, color, quantity, and measurements. QC photos cannot prove hidden construction, long-term durability, or authenticity, so request targeted images when a detail is important.
+
+![CFans.com homepage — screenshot from cfans.com](images/cfans-homepage.png)
 
 > **Ready to try a more transparent Taobao agent?**
 > Start your next Taobao order with CFans. Paste a product link, compare the purchase with the CFans True Total Cost formula, use the included 3–5 inspection photos per item, and choose the shipping line that fits your budget and deadline.

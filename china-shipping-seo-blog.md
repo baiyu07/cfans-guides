@@ -1,5 +1,7 @@
 # China Shipping Guide: Costs, Methods, Customs and Smarter Delivery
 
+![China Shipping Guide: Costs, Methods, Customs and Smarter Delivery — CFans Guides cover](images/china-shipping-seo-blog-cover.png)
+
 Shipping from China is easier when you match the delivery line to the parcel, understand chargeable weight, and plan for customs before checkout.
 
 > **TL;DR:**
@@ -21,6 +23,8 @@ Always compare the complete door-to-door quote rather than a headline rate. Fuel
 ## Choose the shipping method by urgency, size, and chargeable weight
 
 These ranges are planning benchmarks, not guaranteed prices. Route, season, dimensions, destination, and product restrictions affect the final quote. Check live rates after the packed parcel is measured.
+
+![Infographic: choosing a China shipping method by urgency, parcel size and chargeable weight](images/china-shipping-seo-blog-fig2.png)
 
 | Method | Typical transit | Indicative cost | Best fit |
 | --- | --- | --- | --- |
@@ -55,9 +59,13 @@ Sea freight usually wins for heavy or bulky cargo. Less-than-container load (LCL
 
 Tracked postal and special-line services trade speed for price. They suit compact items, but names and limits vary by country. Tracking can be less detailed during handoffs, and restricted-item rules may be tighter.
 
+![CFans Help Center article on logistics services and shipping lines — screenshot from cfans.com](images/cfans-help-shipping.png)
+
 ## Chargeable weight can matter more than scale weight
 
 For air and express services, the carrier commonly compares actual weight with volumetric weight and bills whichever is higher. DHL Express, for example, publishes this formula for measurements in centimetres:
+
+![Infographic: chargeable weight vs scale weight — volumetric weight formula explained](images/china-shipping-seo-blog-fig1.png)
 
 > **Volumetric weight (kg) = length × width × height ÷ 5,000**
 > A 50 × 40 × 30 cm box calculates to 12 kg, even if the scale shows only 5 kg. Divisors vary by carrier and service — CFans’ example lines use L×W×H÷6,000 (USA/UK) or ÷8,000 (Germany) — and CFans bills by upward-rounded weight (e.g. 8,526 g becomes 8,600 g), so confirm the live rule before booking.
@@ -67,6 +75,8 @@ Soft, bulky goods can therefore be surprisingly expensive. Removing shoe boxes, 
 ## CFans consolidation cuts duplicate packaging and separate minimum charges
 
 CFans consolidates compatible purchases at one China warehouse before international shipping. This can remove oversized seller packaging and avoid repeating minimum charges across several standalone parcels.
+
+![Infographic: how CFans parcel consolidation works — receive, inspect, repack, combine and ship](images/china-shipping-seo-blog-fig3.png)
 
 - **1** **Receive:** Each seller sends the item to the CFans warehouse.
 - **2** **Inspect:** CFans standard inspection includes prohibited-item screening, an appearance check (defects flagged at 0.5 cm or more in diameter, or 1 cm or more in length), and 3–5 photos per item to help confirm that the expected item arrived. HD custom photos (1.5 RMB/photo) and video QC (35 RMB/item) are available upgrades.

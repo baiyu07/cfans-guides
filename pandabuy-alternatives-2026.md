@@ -1,5 +1,7 @@
 # Best Pandabuy alternatives in 2026: compare cost, QC and switching effort
 
+![Best Pandabuy Alternatives in 2026: Cost, QC and Switching Compared — CFans Guides cover](images/pandabuy-alternatives-2026-cover.png)
+
 A practical buyer's guide to CFans, Superbuy, CSSBuy, Sugargoo, Basetao and Wegobuy - built around what you actually pay and what happens after the seller ships.
 
 > **TL;DR:**
@@ -26,6 +28,8 @@ The agent receives a Taobao, 1688, Weidian or other marketplace link, buys the s
 ## Which six checks reveal the real fit?
 
 A useful shortlist compares the same dimensions for every agent. These six checks keep the decision anchored in the actual order journey rather than promotional language.
+
+![Infographic: six checks to compare Pandabuy alternatives — cost, QC, speed and support](images/pandabuy-alternatives-2026-fig1.png)
 
 #### 1. Cost clarity
 
@@ -75,6 +79,8 @@ The table uses public information available for this September 2026 editorial sn
 ## A zero-percent service fee can still cost more
 
 The number to compare is not “service fee.” It is the money lost between the seller's CNY price and the value that finally reaches your warehouse account, plus the services you actually need.
+
+![CFans Help Center article on purchasing service fees — screenshot from cfans.com](images/cfans-help-fees.png)
 
 > The
 > CFans True Total Cost formula
@@ -137,6 +143,8 @@ Do not switch merely because another agent advertises a lower service fee. If yo
 
 The clean migration rule is simple: switch between orders, not in the middle of one. Product links are portable; warehouse obligations often are not.
 
+![Infographic: 4 steps to switch Taobao agents without disrupting a haul](images/pandabuy-alternatives-2026-fig2.png)
+
 > **Practical default:**
 > If the goods are already close to the old warehouse, finishing that haul there is usually less risky than creating a warehouse-to-warehouse transfer. Begin the new agent with items that have not yet been ordered.
 
@@ -165,6 +173,8 @@ Sometimes an agent permits domestic forwarding to another Chinese address, but i
 ## What red flags should you check before choosing an agent?
 
 Use this checklist before topping up a wallet or sending goods to a warehouse. One weak answer does not automatically disqualify a service, but several unclear answers should stop a large order.
+
+![Checklist infographic: 8 red flags to check before choosing a buying agent](images/pandabuy-alternatives-2026-fig3.png)
 
 - [ ] **No reproducible FX quote.** The site shows a converted total but not enough information to compare it with a same-time benchmark.
 - [ ] **“0% fee” without an itemized checkout.** Payment charges, conversion spread, mandatory handling or shipping markups remain unclear.

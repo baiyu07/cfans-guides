@@ -1,5 +1,7 @@
 # Why choose CFans: service, process & pricing explained
 
+![Why Choose CFans: Service, Process and Pricing Explained — CFans Guides cover](images/why-choose-cfans-2026-cover.png)
+
 > **TL;DR::**
 >
 > CFans (cfans.com) is a China buying agent that helps overseas buyers purchase from Taobao, 1688, Weidian and other Chinese sellers, then inspect, store, consolidate and ship the items internationally. Its core value is one managed workflow with a warehouse approval checkpoint before you pay for overseas delivery.
@@ -15,6 +17,8 @@ This guide answers the questions a careful first-time customer should ask before
 ## Why do overseas buyers choose CFans?
 
 Chinese marketplaces are designed primarily for domestic commerce. The buyer may face Chinese-only listings, local payment requirements, sellers that do not export and domestic couriers that stop at a Chinese address. CFans connects those steps into a usable cross-border process.
+
+![CFans.com homepage — screenshot from cfans.com](images/cfans-homepage.png)
 
 #### Purchase execution
 
@@ -49,6 +53,8 @@ The strongest reason is not a coupon or a headline fee. It is the decision point
 ## How does ordering through CFans work?
 
 The order has two commercial stages: first, you pay for the goods and China-side handling; later, after the items are in the warehouse, you pay for the international parcel. Keeping these stages separate lets the warehouse use actual package information and gives you time to inspect before export.
+
+![Infographic: how ordering through CFans works — from product link to export parcel](images/why-choose-cfans-2026-fig1.png)
 
 1. **Create an account.** Register at cfans.com and set your destination country. Before funding anything, review the current user agreement, prohibited-items rules, storage period, refund conditions and account verification requirements.
 2. **Submit the product link.** Paste a listing from Taobao, 1688, Weidian or another supported source. Select the exact variant, quantity and notes. If the page cannot be parsed, a manual order may require the seller URL, specification and price.
@@ -89,6 +95,8 @@ The first payment funds the goods and China-side order. The second funds the int
 
 CFans says its warehouse quality check covers defects, size, color and other visible order details. That can prevent an obvious mismatch from traveling internationally. It is best understood as a warehouse visual inspection, not laboratory testing, professional authentication or a guarantee of long-term durability.
 
+![Infographic: the CFans quality control process — free 3–5 inspection photos per item](images/why-choose-cfans-2026-fig3.png)
+
 Verified detail (logged-in Help Center, September 26, 2026): the free standard inspection covers prohibited-item screening plus appearance checks (style, quantity, color, size, damage, stains, defects) with 3–5 photos per item; the defect standard is diameter ≥0.5cm or length ≥1cm. Paid upgrades: HD custom photos at 1.5 RMB/photo (24h) and video QC at 35 RMB/item (20–90s).
 
 | QC can often help verify | QC usually cannot prove |
@@ -118,6 +126,8 @@ Raise the issue while the item is still in China. Explain the discrepancy precis
 ## What does CFans cost?
 
 A buying-agent bill is not one fee. The useful comparison is the amount required to get the parcel to your address, not the percentage printed beside “service fee.” A low headline fee can be outweighed by exchange-rate spread, payment charges, domestic delivery, optional warehouse work or an unsuitable shipping line.
+
+![Infographic: what CFans costs — 0% purchasing fee, QC photo and video pricing, storage terms](images/why-choose-cfans-2026-fig2.png)
 
 ### What is the CFans True Total Cost formula?
 
@@ -152,6 +162,8 @@ CFans includes standard quality inspection — 3–5 inspection photos per item 
 > **Pricing rule:**
 >
 > Capture the exchange rate, top-up amount and checkout breakdown at the same moment. Comparing a card charge in dollars with a marketplace price in yuan without the applied conversion rate hides the real cost.
+
+![CFans Help Center article on free warehousing and storage terms — screenshot from cfans.com](images/cfans-help-storage.png)
 
 ## How do you calculate the real price of a haul?
 
