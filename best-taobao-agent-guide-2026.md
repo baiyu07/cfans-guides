@@ -1,5 +1,7 @@
 # Best Taobao Agent in 2026: How to Choose by True Cost, QC and Shipping
 
+![Best Taobao Agent in 2026: True Cost, QC and Shipping Guide — CFans Guides cover](images/best-taobao-agent-guide-2026-cover.png)
+
 A practical decision guide for overseas shoppers, sneaker and streetwear buyers, students, diaspora communities, small resellers and dropshippers.
 
 > **TL;DR:**
@@ -26,9 +28,13 @@ That bridge matters because many sellers on Taobao, 1688 and Weidian are built f
 
 Headline service fees are only one layer. The right number is the amount required to move the correct goods from the seller to your door, with the protection level you actually need.
 
+![Infographic: the CFans True Total Cost formula for comparing Taobao agents](images/best-taobao-agent-guide-2026-fig1.png)
+
 > **Pre-shipping agent cost** = product price + service fee + FX conversion loss + China domestic shipping + paid extras
 
 > **Landed cost** = pre-shipping agent cost + international freight + insurance + destination tax/duty + carrier or brokerage charges
+
+![CFans Help Center article on purchasing service fees — screenshot from cfans.com](images/cfans-help-fees.png)
 
 ## Why can the exchange rate matter more than the service fee?
 
@@ -50,6 +56,8 @@ International carriers may charge the greater of actual and volumetric weight. D
 
 Assume two fictional but realistic agents quote the same ¥500 haul. The items, China domestic delivery and international route are identical. “Agent Zero” promotes no service fee but the payment path costs 8% above a neutral-rate conversion and adds ¥18 of warehouse extras. “Agent Five” charges 5%, but its conversion loss is 3% and its extras are ¥8. All figures in this example are illustrative placeholders, not quotes.
 
+![Infographic: why a 0% service fee can cost more than a 5% fee — FX loss and extras compared](images/best-taobao-agent-guide-2026-fig3.png)
+
 | ¥500 basket | Agent Zero | Agent Five |
 | --- | --- | --- |
 | Product price | ¥500 | ¥500 |
@@ -69,6 +77,8 @@ Assume two fictional but realistic agents quote the same ¥500 haul. The items, 
 - **4.** **Select only required extras.** Add detailed photos, storage extension, vacuum packing, corner protection or insurance only when needed.
 - **5.** **Normalize freight.** Compare eligible lines at similar speed and insurance using the same chargeable weight.
 - **6.** **Save the evidence.** Keep screenshots of the quote, route terms and insurance limit until delivery.
+
+![Infographic: the 5-minute Taobao agent cost audit in 6 steps](images/best-taobao-agent-guide-2026-fig2.png)
 
 **Useful metric for resellers:** landed cost per sellable unit = total landed cost ÷ units that passed QC. A cheap batch with defects can have a high usable-unit cost.
 
@@ -234,6 +244,8 @@ CFans accepts Credit Card (two channels) and PayPal. The minimum top-up is CNY 6
 ## How do you read QC photos correctly?
 
 QC photos are evidence of visible condition, not certification. Standard images can confirm the broad model, color, quantity, labels, obvious marks and packaging. They cannot reliably prove authenticity, internal materials, battery health, waterproofing, electronic function or long-term durability. Sugargoo’s own QC guidance, for example, limits checks on sealed goods and electronics and distinguishes free basic photos from paid personalized photography.[4]
+
+![CFans Help Center article on QC inspection standards — screenshot from cfans.com](images/cfans-help-qc.png)
 
 | For clothing | For sneakers | For accessories | For small-B orders |
 | --- | --- | --- | --- |
