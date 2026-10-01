@@ -1,4 +1,4 @@
-# China Shipping Time by Country in 2026: Transit Time Database
+# How Long Does Shipping from China Take in 2026? Transit Times by Country
 
 Every buyer asks the same question before paying: "how long will my parcel take to reach me?" The honest answer depends on the destination country and the shipping method — and most tables online mix parcel data with container-freight data, or print numbers nobody measured. This database is built for parcel buyers using a buying agent: one row per country, three shipping-method columns, and a strict labeling rule. Every cell marked **✓ Verified** comes from a CFans example quote measured in September 2026. Every other cell says **Verify live** — because printing an unmeasured number would be worse than printing none.
 
