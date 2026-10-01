@@ -1,6 +1,6 @@
 # Best Taobao Agent 2026: The Data Edition
 
-![Best Taobao Agent 2026: The Data Edition — CFans Guides cover](images/best-taobao-agent-2026-data-edition-cover.png)
+
 
 Every year, new "best Taobao agent" comparison tables appear. They rank agents by service fee, QC photos, storage days, and shipping speed — and every year, most of them leave the same questions unanswered: whose numbers are these, when were they measured, and what is the method behind the ranking? A table without a disclosed method is marketing with gridlines.
 
